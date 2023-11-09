@@ -1,3 +1,10 @@
 **/.idea/
 **/.vscode/
 **/.DS_Store
+
+checkpoint
+__pycache__
+llm
+data
+models
+result_img
