@@ -1,0 +1,14 @@
+python main.py --dataset icews14 --lr 5e-2 --model MTComplEx --rank 2000 --emb_reg 5e-3 --time_reg 5e-3 --joint --loss_ratio 0.6 --m --alpha 0.5 --block_size 1111111111111
+0.636 0.557 0.683 0.785
+python main.py --dataset icews14 --lr 5e-2 --model MTComplEx --rank 2000 --emb_reg 5e-3 --time_reg 5e-3 --joint --loss_ratio 0.6 --m --alpha 0.5 --block_size 2222222222222
+0.636 0.556 0.681 0.785
+python main.py --dataset icews14 --lr 5e-2 --model MTComplEx --rank 2000 --emb_reg 5e-3 --time_reg 5e-3 --joint --loss_ratio 0.6 --m --alpha 0.5 --block_size 3333333333333
+0.636 0.556 0.681 0.786
+python main.py --dataset icews14 --lr 5e-2 --model MTComplEx --rank 2000 --emb_reg 5e-3 --time_reg 5e-3 --joint --loss_ratio 0.6 --m --alpha 0.5 --block_size 4444444444444
+0.634 0.554 0.680 0.784
+python main.py --dataset icews14 --lr 5e-2 --model MTComplEx --rank 2000 --emb_reg 5e-3 --time_reg 5e-3 --joint --loss_ratio 0.6 --m --alpha 0.5 --block_size 5555555555555
+0.635 0.554 0.681 0.784
+python main.py --dataset icews14 --lr 5e-2 --model MTComplEx --rank 2000 --emb_reg 5e-3 --time_reg 5e-3 --joint --loss_ratio 0.6 --m --alpha 0.5 --block_size 6666666666666
+0.635 0.554 0.683 0.786
+python main.py --dataset icews14 --lr 5e-2 --model MTComplEx --rank 2000 --emb_reg 5e-3 --time_reg 5e-3 --joint --loss_ratio 0.6 --m --alpha 0.5 --block_size 7777777777777
+0.634 0.553 0.681 0.784

@@ -1,0 +1,1 @@
+{"model": "transe", "dataset": "FB15k", "num_entity": 14951, "num_relation": 1345, "emb_dim": 200, "margin": 2.0, "p_norm": 1, "c_e": 0, "c_r": 0}
